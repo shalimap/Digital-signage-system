@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5980802251",
+    "project_id": "digital-signage-app-7d100",
+    "storage_bucket": "digital-signage-app-7d100.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5980802251:android:423b275435ecc1b73e5f4e",
+        "android_client_info": {
+          "package_name": "com.example.digital_signage_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXf1P3EZuXZToU7X1BxigyQOKOXgs15xs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
